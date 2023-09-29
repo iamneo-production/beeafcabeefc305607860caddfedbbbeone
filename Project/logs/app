@@ -1,0 +1,5 @@
+[INFO] 2023-09-29 19:55:00,753 pages.Cart cart_verify - Performed Enter action
+[INFO] 2023-09-29 19:55:01,509 pages.Cart cart_verify - Clicked 1st Item
+[INFO] 2023-09-29 19:55:06,191 pages.Cart cart_verify - Clicked 1st Item Add to cart
+[INFO] 2023-09-29 19:55:09,096 pages.Cart cart_verify - Clicked Cart
+[INFO] 2023-09-29 19:55:09,651 pages.Cart cart_verify - Asserted delivery text
